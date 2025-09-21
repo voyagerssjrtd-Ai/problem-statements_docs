@@ -1,0 +1,11 @@
+Sign in options
+New account tour to view all the options and its uses
+Welcome with user's name and greet
+Prompt box search suggestions
+Temporary chat options for user security
+chat history for that specific account
+dictate
+voice interaction input and Output
+every options available in the same prompt box 
+AI model selection based on the users requirement
+UI should be compatible for mobile as well
