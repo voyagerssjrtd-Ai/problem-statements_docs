@@ -1,0 +1,20 @@
+Capital Markets Portfolio Risk Explanation Agent
+
+Problem Statement:
+Portfolio managers need clear explanations of risk factors affecting their investments to make informed decisions.
+
+Steps:
+
+Input portfolio holdings and market data.
+
+Agent analyzes risk exposures and explains in plain language.
+
+Agent suggests risk mitigation strategies.
+
+Agent answers follow-up questions.
+
+Data Requirements:
+Portfolio data, market risk indicators. Sample: Holdings CSV, volatility indices.
+
+Expected Output:
+Risk explanation report with mitigation advice.
