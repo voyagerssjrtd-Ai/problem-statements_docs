@@ -5,13 +5,13 @@ Portfolio managers need clear explanations of risk factors affecting their inves
 
 Steps:
 
-Input portfolio holdings and market data.
+1. Input portfolio holdings and market data.
 
-Agent analyzes risk exposures and explains in plain language.
+2. Agent analyzes risk exposures and explains in plain language.
 
-Agent suggests risk mitigation strategies.
+3. Agent suggests risk mitigation strategies.
 
-Agent answers follow-up questions.
+4. Agent answers follow-up questions.
 
 Data Requirements:
 Portfolio data, market risk indicators. Sample: Holdings CSV, volatility indices.
