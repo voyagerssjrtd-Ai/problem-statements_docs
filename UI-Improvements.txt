@@ -9,3 +9,7 @@ voice interaction input and Output
 every options available in the same prompt box 
 AI model selection based on the users requirement
 UI should be compatible for mobile as well
+
+Run this before running any scripts in the powershell terminal
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+npm install
