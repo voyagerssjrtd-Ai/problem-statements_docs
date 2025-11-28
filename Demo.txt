@@ -1,0 +1,19 @@
+Title:
+
+Al-Driven Patient Symptom Triage and Follow-up Planner for Healthcare
+
+Problem Statement:
+
+Healthcare providers deal with high volumes of patient inquiries and symptom reports, making efficient triage and follow-up planning difficult. Manual processes lead to delays and inconsistent recommendations. A generative Al agent that can interactively assess patient symptoms, suggest triage levels, and generate personalized follow-up plans by integrating electronic health record (EHR) mock data and medical knowledge bases can streamline workflows. The system must ensure data privacy, multi-agent collaboration, and user-friendly interfaces.
+
+Data Requirements:
+
+De-identified patient symptom records (mock data), sample EHR data sets, access to medical knowledge APIs (e.g., MedlinePlus), user authentication data, and pretrained LLM models.
+
+(Feel free to generate synthetic data as well from the provided access)
+
+Expected Output:
+
+A A production-ready app enabling interactive symptom triage via Al, with personalized follow-up plans linked to patient records. Features include secure login, clinician dashboards, multi-agent coordination, error handling for API calls, full documentation, test coverage, and performance metrics.
+
+Be creative to go beyond as you solve the above needs
