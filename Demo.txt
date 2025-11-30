@@ -1,6 +1,4 @@
-Title:
-
-Al-Driven Patient Symptom Triage and Follow-up Planner for Healthcare
+Title: Al-Driven Patient Symptom Triage and Follow-up Planner for Healthcare
 
 Problem Statement:
 
